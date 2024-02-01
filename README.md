@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://angwenyiogata.github.io/project-tracking-intro-component-master/)
 
 ## My process
 
